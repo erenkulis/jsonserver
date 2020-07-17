@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "uid": "_4575736325234",
+    "name": "Black Bomber Jacket",
+    "price": "129,99",
+    "thumb": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/bb/6e/bb6e8e4a547fbcaba1fb5543c6d1d1c1221a83fa.jpg],origin[dam],category[men_jacketscoats_bomberjackets],type[DESCRIPTIVESTILLLIFE],res[l],hmver[1]&call=url[file:/product/fullscreen]",
+    "type": "jacket",
+    "sizes": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "uid": "_4575736385231",
+    "name": "Black T-shirt Long Fit",
+    "price": "49,99",
+    "thumb": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/83/e1/83e1bf22cd2015bc509296ef1e2d5a4d29b70b7a.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[l],hmver[4]&call=url[file:/product/fullscreen]",
+    "type": "tshirt",
+    "sizes": ["m", "l", "xl"]
+  },
+  {
+    "id": 2,
+    "uid": "_2575336325238",
+    "name": "Green Pants",
+    "price": "74,99",
+    "thumb": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/76/f0/76f089737f916e0a4fda5fc1ad1d13a87d2790f1.jpg],origin[dam],category[men_trousers_cargo],type[DESCRIPTIVESTILLLIFE],res[l],hmver[1]&call=url[file:/product/fullscreen]",
+    "type": "pants",
+    "sizes": ["xs", "l", "xl"]
+  },
+  {
+    "id": 3,
+    "uid": "_1575536329232",
+    "name": "Orange Sweatshirt",
+    "price": "49,99",
+    "thumb": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/f2/d4/f2d414786b766239fa9b3abe875d32830a9aba56.jpg],origin[dam],category[men_hoodiessweatshirts_hoodies],type[DESCRIPTIVESTILLLIFE],res[l],hmver[1]&call=url[file:/product/fullscreen]",
+    "type": "sweatshirt",
+    "sizes": ["xs", "s", "m", "l"]
+  }
+]
